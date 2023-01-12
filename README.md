@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/ReactorIdle/blob/main/ReactorIdle__MP4_AdobeExpress.gif"  height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/ReactorIdle/blob/main/ReactorIdle.gif"  height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         ReactorIdle
