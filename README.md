@@ -27,21 +27,21 @@
         DefenceRunnerV0.2
       </a>
       <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/ArmThemUp/blob/main/ArmThem_Up.gif" width ="130" height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/ArmThemUp/blob/main/ArmThem_Up.gif" width ="120" height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         ArmThemUp      
       </a>
     </td>
     <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/WeightTextBattle/blob/main/WeightTextBattle.gif" width ="130" height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/WeightTextBattle/blob/main/WeightTextBattle.gif" width ="120" height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         WeightTextBattle
       </a>
     </td>
     <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/CashierRun/blob/main/CashierRun.gif" width ="130" height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/CashierRun/blob/main/CashierRun.gif" width ="120" height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         CashierRun
@@ -72,7 +72,7 @@
         LeaveMeAlone!
       </a>
       <td align="center" height="250" width ="200">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/AR-DEMO-/blob/main/AR_DEMO.gif" width ="130" height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/AR-DEMO-/blob/main/AR_DEMO.gif" width ="120" height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         AR-DEMO        
@@ -86,7 +86,7 @@
       </a>
     </td>
     <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/PushThemForward/blob/main/PushThemForward_MOV_AdobeExpress.gif" width ="130" height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/PushThemForward/blob/main/PushThemForward_MOV_AdobeExpress.gif" width ="120" height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         PushThemForward
