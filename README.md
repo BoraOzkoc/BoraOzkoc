@@ -71,7 +71,7 @@
               <a href="https://github.com/ant-design">
         LeaveMeAlone!
       </a>
-      <td align="center" height="250" width ="50">
+      <td align="center" height="250" width ="200">
         <div class="grid-item"><img src="https://github.com/BoraOzkoc/AR-DEMO-/blob/main/AR_DEMO.gif" min-width: 150px; height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
