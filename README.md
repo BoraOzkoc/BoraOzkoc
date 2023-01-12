@@ -5,7 +5,7 @@ Here are some of the games that I made:
 
 # Test title
 
-<img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/RPReplay_Final1673351619_AdobeExpress.gif" alt="SlingShotMerge" width="500">
+<img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/RPReplay_Final1673351619_AdobeExpress.gif" alt="SlingShotMerge" height="500">
 
 
 <!--
