@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td align="center" height="250">
+    <td align="center" height="250" width ="50">
         <div class="grid-item"><img src="https://github.com/BoraOzkoc/ReactorIdle/blob/main/ReactorIdle.gif"  height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
@@ -14,7 +14,7 @@
       </a>
     </td>
    <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/RPReplay_Final1673351619_AdobeExpress.gif"  height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/IdleBrickContruction/blob/main/IdleBrickContruction.gif"  height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         IdleBrickContruction
@@ -71,7 +71,7 @@
               <a href="https://github.com/ant-design">
         LeaveMeAlone!
       </a>
-      <td align="center" height="250">
+      <td align="center" height="250" width ="50">
         <div class="grid-item"><img src="https://github.com/BoraOzkoc/AR-DEMO-/blob/main/AR_DEMO.gif" min-width: 150px; height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
