@@ -4,12 +4,10 @@
 ### Here are some of the games that I made:
 
 
-<div id="myDIV">
-  <div class="item1"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/RPReplay_Final1673351619_AdobeExpress.gif" alt="SlingShotMerge" height="250"></div>
-  <div class="item1"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/RPReplay_Final1673351619_AdobeExpress.gif" alt="SlingShotMerge" height="250"></div>
-  <div class="item1"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/RPReplay_Final1673351619_AdobeExpress.gif" alt="SlingShotMerge" height="250"></div>
-  <div class="item1"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/RPReplay_Final1673351619_AdobeExpress.gif" alt="SlingShotMerge" height="250"></div>
-  <div class="item1"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/RPReplay_Final1673351619_AdobeExpress.gif" alt="SlingShotMerge" height="250"></div>
+
+<div class="grid-container" id="myDIV">
+  <div class="grid-item"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/RPReplay_Final1673351619_AdobeExpress.gif" alt="SlingShotMerge" height="250"></div>
+  <div class="grid-item"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/RPReplay_Final1673351619_AdobeExpress.gif" alt="SlingShotMerge" height="250"></div>
   
 </div>
 
