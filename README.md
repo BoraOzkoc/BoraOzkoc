@@ -27,7 +27,7 @@
         DefenceRunnerV0.2
       </a>
       <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/ArmThemUp/blob/main/ArmThem_Up.gif"  height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/ArmThemUp/blob/main/ArmThem_Up.gif" width ="130" height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         ArmThemUp      
