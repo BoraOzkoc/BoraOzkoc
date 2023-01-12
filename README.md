@@ -72,7 +72,7 @@
         SlingShotMerge
       </a>
       <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/AR-DEMO-/blob/main/AR_DEMO.gif"  height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/AR-DEMO-/blob/main/AR_DEMO.gif" min-width: 150px; height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         AR-DEMO        
