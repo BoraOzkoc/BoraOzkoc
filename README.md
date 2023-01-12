@@ -34,14 +34,14 @@
       </a>
     </td>
     <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/WeightTextBattle/blob/main/WeightTextBattle.gif"  height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/WeightTextBattle/blob/main/WeightTextBattle.gif" width ="130" height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         WeightTextBattle
       </a>
     </td>
     <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/CashierRun/blob/main/CashierRun.gif"  height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/CashierRun/blob/main/CashierRun.gif" width ="130" height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         CashierRun
@@ -86,7 +86,7 @@
       </a>
     </td>
     <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/PushThemForward/blob/main/PushThemForward_MOV_AdobeExpress.gif"  height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/PushThemForward/blob/main/PushThemForward_MOV_AdobeExpress.gif" width ="130" height="250"></div>
         <br />
               <a href="https://github.com/ant-design">
         PushThemForward
