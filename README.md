@@ -41,10 +41,10 @@
       </a>
     </td>
     <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/CashierRun/blob/main/CashierRun.gif" width ="120" height="250"></div>
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/SlingShotMerge.gif" width ="120" height="250"></div>
         <br />
               <a href="https://github.com/BoraOzkoc">
-        CashierRun
+        SlingShotMerge
       </a>
     </td>
     </td>
