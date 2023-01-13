@@ -101,8 +101,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-özkoç) 
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=unity,blender,cs,cpp,python,github,stackoverflow,visualstudio,vscode,md,unreal)](https://github.com/BoraOzkoc)
+# 💻 Tools & Technologies I Use:
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,cs,github,stackoverflow,visualstudio,vscode,md)](https://github.com/BoraOzkoc)
+
+# 💻 Tools & Technologies That I'm Familiar With:
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,unreal,java)](https://github.com/BoraOzkoc)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BoraOzkoc&theme=gruvbox&hide_border=false)<br/>
