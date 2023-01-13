@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Bora
 
-### I'm an curious and ambitious Game Developer
+### Ambitious and Curious Game Developer
 ### Mainly Using Unity3D
 
 ### Here are some of the games that I made:
