@@ -102,7 +102,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-özkoç) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=unity,blender,python,stackoverflow,md,unreal)](https://github.com/BoraOzkoc)
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,python,c++,stackoverflow,md,unreal)](https://github.com/BoraOzkoc)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BoraOzkoc&theme=gruvbox&hide_border=false)<br/>
