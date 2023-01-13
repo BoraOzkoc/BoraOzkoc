@@ -40,7 +40,15 @@
         WeightTextBattle
       </a>
     </td>
+    <td align="center" height="250">
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/CashierRun/blob/main/CashierRun.gif" width ="120" height="250"></div>
+        <br />
+              <a href="https://github.com/BoraOzkoc">
+        CashierRun
+      </a>
     </td>
+    </td>
+
   </tr>
   <tr>
   <td align="center" height="250">
@@ -57,34 +65,24 @@
         PullThightly
       </a>
     </td>
-     <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/SlingShotMerge.gif" width ="120" height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        SlingShotMerge
-      </a>
-    </td>
     <td align="center" height="250">
         <div class="grid-item"><img src="https://github.com/BoraOzkoc/LeaveMeAlone/blob/main/LeaveMeAlone.gif"  height="250"></div>
         <br />
               <a href="https://github.com/BoraOzkoc">
         LeaveMeAlone!
       </a>
+      <td align="center" height="250" width ="200">
+        <div class="grid-item"><img src="https://github.com/BoraOzkoc/AR-DEMO-/blob/main/AR_DEMO.gif" width ="120" height="250"></div>
+        <br />
+              <a href="https://github.com/BoraOzkoc">
+        AR-DEMO        
+      </a>
+    </td>
     <td align="center" height="250">
         <div class="grid-item"><img src="https://github.com/BoraOzkoc/CashierRun/blob/main/CashierRun.gif"  height="250"></div>
         <br />
               <a href="https://github.com/BoraOzkoc">
         CashierRun    
-      </a>
-    </td>
-    
-  </tr>
-  <tr>
-  <td align="center" height="250" width ="200">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/AR-DEMO-/blob/main/AR_DEMO.gif" width ="120" height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        AR-DEMO        
       </a>
     </td>
     <td align="center" height="250">
