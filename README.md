@@ -3,17 +3,15 @@
 ### Ambitious and Curious Game Developer Mainly Using Unity3D
 
 Known Systems:
--Obi Rope
--Object pooling
--DoTween
--Inverse Kinematics
--Ragdoll
--Save System
--In-game user input
--Grid System(SQUARE & HEXAGON)
--Splines
-
-
+<div>-Obi Rope</div>
+<div>-Object pooling</div>
+<div>-DoTween</div>
+<div>-Inverse Kinematics</div>
+<div>-Ragdoll</div>
+<div>-Save System</div>
+<div>-In-game user input</div>
+<div>-Grid System(SQUARE & HEXAGON)</div>
+<div>-Splines</div>
 
 ### Here are some of the games that I made:
 
