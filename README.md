@@ -1,7 +1,19 @@
-## Hi there 👋
-## I'm Bora
+## Hi there 👋 I'm Bora
 
 ### Ambitious and Curious Game Developer Mainly Using Unity3D
+
+Known Systems:
+-Obi Rope
+-Object pooling
+-DoTween
+-Inverse Kinematics
+-Ragdoll
+-Save System
+-In-game user input
+-Grid System(SQUARE & HEXAGON)
+-Splines
+
+
 
 ### Here are some of the games that I made:
 
