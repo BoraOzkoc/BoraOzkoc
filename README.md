@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Bora
 
-### Ambitious and Curious Backend Developer with a Game Developer experience Mainly Using Unity3D-C#
+### Ambitious and Curious GAME DEVELOPER That Loves Making and Playing Games Mainly Using Unity3D-C#
 
 
 ### Here are some of the games that I made:
