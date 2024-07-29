@@ -3,8 +3,6 @@
 ### Ambitious iOS Developer with a Game Developer Background.
 
 
-
-### Portfolio Link :<a href="[https://github.com/BoraOzkoc](https://drive.google.com/file/d/1kvlcJe4_4Q-v2RpdgD3dG4k1AGVmGCUl/view?usp=sharing)"> 
 ### Here are some of the games that I made:
 
 
