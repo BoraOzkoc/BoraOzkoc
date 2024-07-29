@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Bora
 
-### Ambitious and Curious GAME DEVELOPER That Loves Making and Playing Games Mainly Using Unity3D-C#
+### Ambitious iOS Developer with a Game Developer Background.
+
 
 
 ### Portfolio Link :<a href="[https://github.com/BoraOzkoc](https://drive.google.com/file/d/1kvlcJe4_4Q-v2RpdgD3dG4k1AGVmGCUl/view?usp=sharing)"> 
