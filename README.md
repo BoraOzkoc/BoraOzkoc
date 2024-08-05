@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Bora
 
-### Ambitious iOS Developer with a Game Developer Background.
+### Ambitious Software Engineer with a Game Developer Background.
 
 
 ### Here are some of the games that I made:
