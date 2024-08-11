@@ -112,7 +112,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-özkoç) 
 
 # 💻 Tools & Technologies I Use:
-[![My Skills](https://skillicons.dev/icons?i=unity,blender,cs,github,stackoverflow,visualstudio,vscode,md,swiftui)](https://github.com/BoraOzkoc)
+[![My Skills](https://skillicons.dev/icons?i=unity,blender,cs,github,stackoverflow,visualstudio,vscode,md,xcode)](https://github.com/BoraOzkoc)
 
 # 💻 Tools & Technologies That I'm Familiar With:
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,unreal,java,swift)](https://github.com/BoraOzkoc)
