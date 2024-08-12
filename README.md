@@ -6,7 +6,7 @@
 ### Here are some of the apps that I made:
 
 <table>
-  <td align="center" height="250" width ="50">
+  <td align="center" height="250" width ="200">
         <div><img src="https://github.com/BoraOzkoc/Calculator/blob/main/Calculator%20App%20Video-2.gif"  height="250"></div>
         <br />
     Calculator App
