@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td align="center" height="250" width ="50">
+    <td align="center" height="250" width ="150">
         <div><img src="https://github.com/BoraOzkoc/Calculator/blob/main/Calculator%20App%20Video-2.gif"  height="250"></div>
         <br />
     Calculator App
@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td align="center" height="250" width ="50">
+    <td align="center" height="250" width ="250">
         <div class="grid-item"><img src="https://github.com/BoraOzkoc/ReactorIdle/blob/main/ReactorIdle.gif"  height="250"></div>
         <br />
               <a href="https://github.com/BoraOzkoc">
