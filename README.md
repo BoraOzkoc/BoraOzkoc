@@ -3,18 +3,25 @@
 ### Ambitious Software Engineer with a Game Developer Background.
 
 
+### Here are some of the apps that I made:
+
+<table>
+  <td align="center" height="250" width ="50">
+        <div><img src="https://github.com/BoraOzkoc/Calculator/blob/main/Calculator%20App%20Video-2.gif"  height="250"></div>
+        <br />
+              <a href="https://github.com/BoraOzkoc">
+      </a>
+    </td>
+</table>
+
+
+
 ### Here are some of the games that I made:
 
 
 <table>
   <tr>
-    <td align="center" height="250" width ="50">
-        <div><img src="https://github.com/BoraOzkoc/Calculator/blob/main/Calculator%20App%20Video-2.gif"  height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        ReactorIdle    
-      </a>
-    </td>
+    
     <td align="center" height="250" width ="50">
         <div class="grid-item"><img src="https://github.com/BoraOzkoc/ReactorIdle/blob/main/ReactorIdle.gif"  height="250"></div>
         <br />
