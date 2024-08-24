@@ -3,7 +3,7 @@
 ### Ambitious Software Engineer with a Game Developer Background.
 
 
-### Here are some of the apps that I made:
+### Here are some of the apps that I made with SwiftUI:
 
 <table>
   <tr>
@@ -25,7 +25,7 @@
 </table>
 
 
-### Here are some of the games that I made with SwiftUI:
+### Here are some of the games that I made:
 
 
 <table>
