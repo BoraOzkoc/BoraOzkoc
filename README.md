@@ -8,17 +8,17 @@
 <table>
   <tr>
     <td align="center" height="250" width ="150">
-        <div><img src="https://github.com/BoraOzkoc/Calculator/blob/main/Calculator%20App%20Video-2.gif"  height="250"></div>
-        <br/>
-      <a href="https://github.com/BoraOzkoc/Calculator">
-    Calculator App
-      </a>
-    </td>
-    <td align="center" height="250" width ="150">
     <div><img src="https://github.com/BoraOzkoc/SwiftUiMapApp/blob/8c73ef84a354bf42299e1fb33c85c7a11d2af104/Ekran%20Kaydı%202024-08-23%2022.07.03.gif"  height="250"></div>
         <br/>
       <a href="https://github.com/BoraOzkoc/Calculator">
     Map App
+      </a>
+    </td>
+    <td align="center" height="250" width ="150">
+        <div><img src="https://github.com/BoraOzkoc/Calculator/blob/main/Calculator%20App%20Video-2.gif"  height="250"></div>
+        <br/>
+      <a href="https://github.com/BoraOzkoc/Calculator">
+    Calculator App
       </a>
     </td>
   </tr>
