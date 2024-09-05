@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Bora
 
-### Ambitious Software Engineer with a Game Developer Background.
+### Ambitious Software Engineer.
 
 
 ### Here are some of the apps that I made with SwiftUI:
