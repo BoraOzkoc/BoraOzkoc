@@ -8,9 +8,12 @@ I'm currently expanding my skills in mobile development, focusing on Swift and S
 
 ### 💼 Technical Skills
 
-Swift – for iOS development
-SwiftUI – for building modern, declarative UIs on iOS
-Kotlin Multiplatform – for cross-platform mobile development
+- **iOS Development**
+  - Swift
+  - SwiftUI
+- **Game Development**
+  - Unity
+  - C#
 
 ### 💡 I'm a quick learner with a strong focus on results, dedicated to building my expertise in mobile development. I draw on my game development background to bring smooth, engaging, and immersive experiences to mobile platforms.
 
