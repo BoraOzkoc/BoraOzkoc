@@ -119,17 +119,6 @@
   </tr>
 </table>
 
-#### Known Systems:
-<div>-Obi Rope</div>
-<div>-Object pooling</div>
-<div>-DoTween</div>
-<div>-Inverse Kinematics</div>
-<div>-Ragdoll</div>
-<div>-Save System</div>
-<div>-In-game user input</div>
-<div>-Grid System(SQUARE & HEXAGON)</div>
-<div>-Splines</div>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-özkoç) 
 
