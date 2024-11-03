@@ -2,7 +2,7 @@
 
 ### I am a Mobile Developer and Game Developer with a Bachelor's degree in Software Engineering, currently residing in Izmir, Turkey. I specialize in creating engaging and optimized mobile applications and games, focusing on both user experience and performance.
 
-### 🌱 I’m currently learning
+### 🌱 Currently Learning
 I'm currently expanding my skills in mobile development, focusing on Swift and SwiftUI for iOS, as well as Kotlin Multiplatform for cross-platform solutions.
 
 ### 💼 Technical Skills
