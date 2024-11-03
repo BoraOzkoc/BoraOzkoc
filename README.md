@@ -1,7 +1,8 @@
 ## Hi there 👋 I'm Bora
 
 ### I am a Mobile Developer and Game Developer with a Bachelor's degree in Software Engineering, currently residing in Izmir, Turkey. I specialize in creating engaging and optimized mobile applications and games, focusing on both user experience and performance.
-
+## 🌐 Find me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-özkoç) 
 ### 🌱 Currently Learning
 I'm currently expanding my skills in mobile development, focusing on Swift and SwiftUI for iOS, as well as Kotlin Multiplatform for cross-platform solutions.
 
@@ -126,8 +127,6 @@ Game Development: Unity, C#
   </tr>
 </table>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-özkoç) 
 
 # 💻 Tools & Technologies I Use:
 [![My Skills](https://skillicons.dev/icons?i=swift,unity,cs,github,stackoverflow,visualstudio,vscode,md)](https://github.com/BoraOzkoc)
