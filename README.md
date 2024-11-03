@@ -11,6 +11,13 @@ iOS Development: Swift, SwiftUI
 Game Development: Unity, C#
 
 ### 💡 I'm a quick learner with a strong focus on results, dedicated to building my expertise in mobile development. I draw on my game development background to bring smooth, engaging, and immersive experiences to mobile platforms.
+
+# 💻 Tools & Technologies I Use:
+[![My Skills](https://skillicons.dev/icons?i=swift,unity,cs,github,stackoverflow,visualstudio,vscode,md)](https://github.com/BoraOzkoc)
+
+# 💻 Tools & Technologies That I'm Familiar With:
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,unreal,java)](https://github.com/BoraOzkoc)
+
 ### Here are some of the apps that I made with SwiftUI:
 
 <table>
@@ -127,12 +134,6 @@ Game Development: Unity, C#
   </tr>
 </table>
 
-
-# 💻 Tools & Technologies I Use:
-[![My Skills](https://skillicons.dev/icons?i=swift,unity,cs,github,stackoverflow,visualstudio,vscode,md)](https://github.com/BoraOzkoc)
-
-# 💻 Tools & Technologies That I'm Familiar With:
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,unreal,java)](https://github.com/BoraOzkoc)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BoraOzkoc&theme=gruvbox&hide_border=false)<br/>
