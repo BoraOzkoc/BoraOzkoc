@@ -20,7 +20,7 @@ I'm currently expanding my skills in mobile development, focusing on Swift and S
 ### 💡 I'm a quick learner with a strong focus on results, dedicated to building my expertise in mobile development. I draw on my game development background to bring smooth, engaging, and immersive experiences to mobile platforms.
 
 # 💻 Tools & Technologies I Use:
-[![My Skills](https://skillicons.dev/icons?i=swift,react,js,unity,cs,github,stackoverflow,visualstudio,vscode,md)](https://github.com/BoraOzkoc)
+[![My Skills](https://skillicons.dev/icons?i=swift,react,js,ts,unity,cs,github,stackoverflow,visualstudio,vscode,md)](https://github.com/BoraOzkoc)
 
 # 💻 Tools & Technologies That I'm Familiar With:
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,unreal,java)](https://github.com/BoraOzkoc)
