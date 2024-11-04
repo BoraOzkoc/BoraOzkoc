@@ -4,13 +4,15 @@
 ## 🌐 Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-ozkoc) 
 ### 🌱 Currently Learning
-I'm currently expanding my skills in mobile development, focusing on Swift and SwiftUI for iOS, as well as Kotlin Multiplatform for cross-platform solutions.
+I'm currently expanding my skills in mobile development, focusing on Swift and SwiftUI for iOS. Also learning React for Front-end.
 
 ### 💼 Technical Skills
 
 - **iOS Development**
   - Swift
   - SwiftUI
+- **Front-End**
+  - React
 - **Game Development**
   - Unity
   - C#
