@@ -39,7 +39,7 @@ I'm currently expanding my skills in mobile development, focusing on Swift and S
     <td align="center" height="250" width ="150">
         <div><img src="https://github.com/BoraOzkoc/Calculator/blob/main/Calculator%20App%20Video-2.gif"  height="250"></div>
         <br/>
-      <a href="https://github.com/BoraOzkoc/Calculator">
+      <a href="https://github.com/BoraOzkoc/SwiftUiMapApp">
     Calculator App
       </a>
     </td>
