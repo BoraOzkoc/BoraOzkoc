@@ -12,7 +12,9 @@ I'm currently expanding my skills in Backend & mobile development, focusing on S
   - Swift
   - SwiftUI
 - **Front-End**
-  - React<a href="https://github.com/BoraOzkoc/SwiftUiMapApp">
+  - React
+[![My Skills](https://skillicons.dev/icons?i=react)]([https://github.com/BoraOzkoc](https://personal-site-9whs.vercel.app))
+
 - **Game Development**
   - Unity
   - C#
