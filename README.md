@@ -4,7 +4,7 @@
 ## 🌐 Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-ozkoc) 
 ### 🌱 Currently Learning
-I'm currently expanding my skills in Backend & mobile development, focusing on Swift and SwiftUI for iOS development and .Net Core for Backend.
+I’m currently learning full-stack development, focusing on building interactive web applications using JavaScript, React, Next.js, and Tailwind CSS for the front-end, and integrating APIs to enhance functionality and user experience.
 
 ### 💼 Technical Skills
 
