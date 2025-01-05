@@ -14,7 +14,9 @@ I’m currently learning full-stack development, focusing on building interactiv
 - **Front-End**
   - React
 [![My Skills](https://skillicons.dev/icons?i=react)](https://personal-site-9whs.vercel.app)
-
+  - Javascript
+  - Next.js
+  - Tailwind css
 - **Game Development**
   - Unity
   - C#
