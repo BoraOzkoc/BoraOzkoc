@@ -19,8 +19,6 @@ I'm currently expanding my skills in Backend & mobile development, focusing on S
   - Unity
   - C#
 
-### 💡 I'm a quick learner with a strong focus on results, dedicated to building my expertise in mobile development. I draw on my game development background to bring smooth, engaging, and immersive experiences to mobile platforms.
-
 # 💻 Tools & Technologies I Use:
 [![My Skills](https://skillicons.dev/icons?i=swift,react,js,ts,next,unity,cs,github,stackoverflow,visualstudio,vscode,md)](https://github.com/BoraOzkoc)
 
