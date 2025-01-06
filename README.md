@@ -6,21 +6,6 @@
 ### 🌱 Currently Learning
 I’m currently learning full-stack development, focusing on building interactive web applications using JavaScript, React, Next.js, and Tailwind CSS for the front-end, and integrating APIs to enhance functionality and user experience.
 
-### 💼 Technical Skills
-
-- **iOS Development**
-  - Swift
-  - SwiftUI
-- **Front-End**
-  - React
-[![My Skills](https://skillicons.dev/icons?i=react)](https://personal-site-9whs.vercel.app)
-  - Javascript
-  - Next.js
-  - Tailwind css
-- **Game Development**
-  - Unity
-  - C#
-
 # 💻 Tools & Technologies I Use:
 [![My Skills](https://skillicons.dev/icons?i=swift,react,js,ts,next,unity,cs,github,stackoverflow,visualstudio,vscode,md)](https://github.com/BoraOzkoc)
 
