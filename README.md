@@ -14,8 +14,8 @@ I’m currently learning full-stack development, focusing on building interactiv
 ### Here are some of the apps that I made with React:
 <table>
   <tr>
-    <td align="center" height="200" width ="300">
-    <div><img src="https://github.com/BoraOzkoc/React-Quiz/blob/main/TriviaQuiz.png"  height="250"></div>
+    <td align="center" height="200" width ="400">
+    <div><img src="https://github.com/BoraOzkoc/React-Quiz/blob/main/TriviaQuiz.png?raw=true"  height="250"></div>
         <br/>
       <a href="https://github.com/BoraOzkoc/React-Quiz">
     Trivia Quiz
