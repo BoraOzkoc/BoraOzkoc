@@ -15,7 +15,7 @@ I’m currently learning full-stack development, focusing on building interactiv
 <table>
   <tr>
     <td align="center" height="200" width ="400">
-    <div><img src="https://github.com/BoraOzkoc/React-Quiz/blob/main/TriviaQuiz.png?raw=true"  height="250"></div>
+    <div><img src="https://github.com/BoraOzkoc/React-Quiz/blob/main/TriviaQuizScreenshot.png"  height="250"></div>
         <br/>
       <a href="https://github.com/BoraOzkoc/React-Quiz">
     Trivia Quiz
