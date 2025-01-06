@@ -16,11 +16,11 @@ I’m currently learning full-stack development, focusing on building interactiv
 
 <table>
   <tr>
-    <td align="center" height="250" width ="150">
+    <td align="center" height="200" width ="200">
     <div><img src="https://github.com/BoraOzkoc/React-Quiz/blob/main/TriviaQuiz.png"  height="250"></div>
         <br/>
       <a href="https://github.com/BoraOzkoc/React-Quiz">
-    Map App
+    Trivia Quiz
       </a>
     </td>
     <td align="center" height="250" width ="150">
