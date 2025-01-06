@@ -11,7 +11,7 @@ I’m currently learning full-stack development, focusing on building interactiv
 
 # 💻 Tools & Technologies That I'm Familiar With:
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,unreal,java)](https://github.com/BoraOzkoc)
-### Here are some of the apps that I made with React:
+### Here are some of the web apps that I made with React:
 <table>
   <tr>
     <td align="center" height="200" width ="400">
