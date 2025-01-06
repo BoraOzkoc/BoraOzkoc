@@ -11,9 +11,7 @@ I’m currently learning full-stack development, focusing on building interactiv
 
 # 💻 Tools & Technologies That I'm Familiar With:
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,unreal,java)](https://github.com/BoraOzkoc)
-
-### Here are some of the apps that I made with SwiftUI:
-
+### Here are some of the apps that I made with React:
 <table>
   <tr>
     <td align="center" height="200" width ="200">
@@ -23,6 +21,13 @@ I’m currently learning full-stack development, focusing on building interactiv
     Trivia Quiz
       </a>
     </td>
+  </tr>
+</table>
+
+### Here are some of the apps that I made with SwiftUI:
+
+<table>
+  <tr>
     <td align="center" height="250" width ="150">
     <div><img src="https://github.com/BoraOzkoc/SwiftUiMapApp/blob/8c73ef84a354bf42299e1fb33c85c7a11d2af104/Ekran%20Kaydı%202024-08-23%2022.07.03.gif"  height="250"></div>
         <br/>
