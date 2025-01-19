@@ -1,21 +1,40 @@
 ## Hi there 👋 I'm Bora
 
 ### I am a Mobile Developer and Game Developer with a Bachelor's degree in Software Engineering from Izmir University of Economics, currently residing in Izmir, Turkey. I specialize in creating engaging and optimized mobile applications and games, focusing on both user experience and performance.
+
 ## 🌐 Find me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-ozkoc) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-ozkoc)
+
 ### 🌱 Currently Learning
+
 I’m currently learning full-stack development, focusing on building interactive web applications using JavaScript, React, Next.js, and Tailwind CSS for the front-end, and integrating APIs to enhance functionality and user experience.
 
 # 💻 Tools & Technologies I Use:
+
 [![My Skills](https://skillicons.dev/icons?i=swift,react,js,ts,next,unity,cs,github,stackoverflow,visualstudio,vscode,md)](https://github.com/BoraOzkoc)
 
 # 💻 Tools & Technologies That I'm Familiar With:
+
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,unreal,java)](https://github.com/BoraOzkoc)
+
 ### Here are some of the web apps that I made with React:
+
 <table>
   <tr>
+  <td align="center" height="200" width ="400">
+    <div>
+    <img src="https://github.com/BoraOzkoc/React-Quiz/blob/main/TriviaQuizScreenshot.png"  height="250">
+    </div>
+        <br/>
+      <a href="https://github.com/BoraOzkoc/card-game">
+    Card Game
+      </a>
+    </td>
     <td align="center" height="200" width ="400">
-    <div><img src="https://github.com/BoraOzkoc/React-Quiz/blob/main/TriviaQuizScreenshot.png"  height="250"></div>
+    <div>
+    <img src="https://github.com/BoraOzkoc/React-Quiz/blob/main/TriviaQuizScreenshot.png"  height="250">
+    </div>
         <br/>
       <a href="https://github.com/BoraOzkoc/React-Quiz">
     Trivia Quiz
@@ -45,9 +64,7 @@ I’m currently learning full-stack development, focusing on building interactiv
   </tr>
 </table>
 
-
 ### Here are some of the games that I made with Unity3D:
-
 
 <table>
   <tr>
@@ -140,10 +157,6 @@ I’m currently learning full-stack development, focusing on building interactiv
   </tr>
 </table>
 
-
 # 📊 GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BoraOzkoc&theme=gruvbox&hide_border=false)<br/>
-
-
-
-
