@@ -12,7 +12,7 @@ I’m currently learning full-stack development, focusing on building interactiv
 
 # 💻 Tools & Technologies I Use:
 
-[![My Skills](https://skillicons.dev/icons?i=swift,react,js,ts,next,unity,cs,github,stackoverflow,visualstudio,vscode,md)](https://github.com/BoraOzkoc)
+[![My Skills](https://skillicons.dev/icons?i=cs,swift,react,js,ts,next,unity,github,stackoverflow,vscode,md)](https://github.com/BoraOzkoc)
 
 # 💻 Tools & Technologies That I'm Familiar With:
 
