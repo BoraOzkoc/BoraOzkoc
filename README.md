@@ -8,7 +8,7 @@
 
 ### 🌱 Currently Learning
 
-I’m currently learning full-stack development, focusing on building interactive web applications using JavaScript, React, Next.js, and Tailwind CSS for the front-end, and integrating APIs to enhance functionality and user experience.
+I’m currently learning full-stack development, focusing on building interactive web applications using JavaScript, Typescript, React, Next.js, and Tailwind CSS for the front-end, and integrating APIs to enhance functionality and user experience.
 
 # 💻 Tools & Technologies I Use:
 
