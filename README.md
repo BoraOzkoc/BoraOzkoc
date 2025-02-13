@@ -8,17 +8,25 @@
 
 ### 🌱 Currently Learning
 
-I’m currently learning full-stack development, focusing on building interactive web applications using JavaScript, Typescript, React, Next.js, and Tailwind CSS for the front-end, and integrating APIs to enhance functionality and user experience.
+I'm currently learning full-stack development, focusing on building interactive web applications using JavaScript, Typescript, React, Next.js, and Tailwind CSS for the front-end, and integrating APIs to enhance functionality and user experience.
 
 # 💻 Tools & Technologies I Use:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,swift,react,js,ts,next,unity,github,stackoverflow,vscode,md)](https://github.com/BoraOzkoc)
 
-
 ### Here are some of the web apps that I made with React:
 
 <table>
   <tr>
+  <td align="center" height="200" width ="400">
+    <div>
+    <img src="https://github.com/BoraOzkoc/boraozkoc-com/blob/main/SiteScreenshot.png"  height="250">
+    </div>
+        <br/>
+      <a href="https://boraozkoc-com.vercel.app">
+    Portfolio Website
+      </a>
+    </td>
   <td align="center" height="200" width ="400">
     <div>
     <img src="https://github.com/BoraOzkoc/card-game/blob/main/Card-Game-SS.png"  height="250">
@@ -85,7 +93,8 @@ I’m currently learning full-stack development, focusing on building interactiv
               <a href="https://github.com/BoraOzkoc">
         DefenceRunnerV0.2
       </a>
-      <td align="center" height="250">
+    </td>
+    <td align="center" height="250">
         <div class="grid-item"><img src="https://github.com/BoraOzkoc/ArmThemUp/blob/main/ArmThem_Up.gif" width ="120" height="250"></div>
         <br />
               <a href="https://github.com/BoraOzkoc">
@@ -130,7 +139,8 @@ I’m currently learning full-stack development, focusing on building interactiv
               <a href="https://github.com/BoraOzkoc">
         LeaveMeAlone!
       </a>
-      <td align="center" height="250" width ="200">
+    </td>
+    <td align="center" height="250" width ="200">
         <div class="grid-item"><img src="https://github.com/BoraOzkoc/AR-DEMO-/blob/main/AR_DEMO.gif" width ="120" height="250"></div>
         <br />
               <a href="https://github.com/BoraOzkoc">
