@@ -13,7 +13,7 @@ I'm currently learning full-stack development, focusing on building interactive 
 
 # 💻 Tools & Technologies I Use:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,swift,react,js,ts,next,unity,github,stackoverflow,vscode,md)](https://github.com/BoraOzkoc)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,next,cs,swift,unity,github,stackoverflow,vscode,md)](https://github.com/BoraOzkoc)
 
 ### Here are some of the web apps that I made with React:
 
