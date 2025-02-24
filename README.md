@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm Bora
 
-### I am a Mobile Developer and Game Developer with a Bachelor's degree in Software Engineering from Izmir University of Economics, currently residing in Izmir, Turkey. I specialize in creating engaging and optimized mobile applications and games, focusing on both user experience and performance.
+### I am a Fullstack Developer and Game Developer with a Bachelor's degree in Software Engineering from Izmir University of Economics, currently residing in Izmir, Turkey. I specialize in creating engaging and optimized mobile applications and games, focusing on both user experience and performance.
 
 ## 🌐 Find me on:
+[![PersonalSite]( https://img.shields.io/badge/MySite-blue.svg?)](https://boraozkoc.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-ozkoc)
 
