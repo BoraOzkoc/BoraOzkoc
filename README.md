@@ -19,7 +19,7 @@ I'm currently learning full-stack development, focusing on building interactive 
 
 <table>
   <tr>
-  <td align="center" height="300" width ="400">
+  <td align="center" height="300" width ="450">
     <div>
     <img src="https://github.com/BoraOzkoc/boraozkoc-com/blob/main/SiteScreenshot.png"  height="250">
     </div>
@@ -28,7 +28,7 @@ I'm currently learning full-stack development, focusing on building interactive 
     Portfolio Website
       </a>
     </td>
-  <td align="center" height="300" width ="400">
+  <td align="center" height="300" width ="450">
     <div>
     <img src="https://github.com/BoraOzkoc/card-game/blob/main/Card-Game-SS.png"  height="250">
     </div>
@@ -37,7 +37,7 @@ I'm currently learning full-stack development, focusing on building interactive 
     Card Game
       </a>
     </td>
-    <td align="center" height="300" width ="400">
+    <td align="center" height="300" width ="450">
     <div>
     <img src="https://github.com/BoraOzkoc/React-Quiz/blob/main/TriviaQuizScreenshot.png"  height="250">
     </div>
