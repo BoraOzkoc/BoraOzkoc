@@ -19,7 +19,7 @@ I'm currently learning full-stack development, focusing on building interactive 
 
 <table>
   <tr>
-  <td align="center" height="200" width ="400">
+  <td align="center" height="300" width ="400">
     <div>
     <img src="https://github.com/BoraOzkoc/boraozkoc-com/blob/main/SiteScreenshot.png"  height="250">
     </div>
