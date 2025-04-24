@@ -165,6 +165,3 @@ I'm currently learning full-stack development, focusing on building interactive 
   </tr>
 </table>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=BoraOzkoc&theme=gruvbox&hide_border=false)<br/>
