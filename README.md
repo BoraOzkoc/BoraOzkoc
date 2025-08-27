@@ -8,30 +8,24 @@ I build fast, clean, and engaging **web apps** and **mobile/PC games**, with a f
 
 ---
 
-## 🚀 What I’m building with
-JavaScript · **TypeScript** · **React** · **Next.js** · **Tailwind CSS** · **C#** · **.NET** · **Unity3D** · **Swift/SwiftUI**
+## 💻 Tools & Technologies
 
 [![Skills](https://skillicons.dev/icons?i=react,next,ts,js,tailwind,cs,dotnet,unity,swift,nodejs,git,github,vercel,cloudflare,vscode)](https://github.com/BoraOzkoc)
 
 ---
 
-## 🌐 Selected Web Apps (React / Next.js)
+## 🚀 My Projects
 
-- [Portfolio Website](https://boraozkoc-com.vercel.app)  
+### 🌐 Web Apps (React / Next.js)
+- [Personal Website](https://boraozkoc-com.vercel.app)  
 - [Card Game](https://github.com/BoraOzkoc/card-game)  
 - [Trivia Quiz](https://github.com/BoraOzkoc/React-Quiz)  
 
----
-
-## 🍏 SwiftUI Apps
-
+### 🍏 SwiftUI Apps
 - [Map App](https://github.com/BoraOzkoc/SwiftUiMapApp)  
 - [Calculator App](https://github.com/BoraOzkoc/Calculator)  
 
----
-
-## 🎮 Games & Studio
-
+### 🎮 Games & Studio
 - [Luqa Games](https://github.com/BoraOzkoc)  
 
 ---
