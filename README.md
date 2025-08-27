@@ -10,7 +10,7 @@ I build fast, clean, and engaging **web apps** and **mobile/PC games**, with a f
 
 ## 💻 Tools & Technologies
 
-[![Skills](https://skillicons.dev/icons?i=react,next,ts,js,tailwind,cs,dotnet,unity,swift,nodejs,git,github,vercel,cloudflare,vscode)](https://github.com/BoraOzkoc)
+[![Skills](https://skillicons.dev/icons?i=react,next,ts,js,tailwind,cs,dotnet,unity,swift,nodejs,git,github,vercel,cloudflare,swagger,vscode)](https://github.com/BoraOzkoc)
 
 ---
 
@@ -21,8 +21,8 @@ I build fast, clean, and engaging **web apps** and **mobile/PC games**, with a f
 - [The Training House](https://dash.cloudflare.com/1ea18b9a7328dc1ec8ed251a18e1e987/workers-and-pages)  
 - [QR Code Generator](https://qr-code-generator-umber-delta.vercel.app/)  
 - [Personal Website](https://boraozkoc-com.vercel.app)  
-- [Card Game](https://github.com/BoraOzkoc/card-game)  
-- [Trivia Quiz](https://github.com/BoraOzkoc/React-Quiz)  
+- [Card Game](https://card-game-eosin.vercel.app)  
+- [Trivia Quiz](https://trivia-quiz-pearl.vercel.app)  
 
 ### 🍏 SwiftUI Apps
 - [Map App](https://github.com/BoraOzkoc/SwiftUiMapApp)  
