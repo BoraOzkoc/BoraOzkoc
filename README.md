@@ -17,6 +17,9 @@ I build fast, clean, and engaging **web apps** and **mobile/PC games**, with a f
 ## 🚀 My Projects
 
 ### 🌐 Web Apps (React / Next.js)
+- [Fişek Profil](https://www.fisekprofil.com)  
+- [The Training House](https://dash.cloudflare.com/1ea18b9a7328dc1ec8ed251a18e1e987/workers-and-pages)  
+- [QR Code Generator](https://qr-code-generator-umber-delta.vercel.app/)  
 - [Personal Website](https://boraozkoc-com.vercel.app)  
 - [Card Game](https://github.com/BoraOzkoc/card-game)  
 - [Trivia Quiz](https://github.com/BoraOzkoc/React-Quiz)  
