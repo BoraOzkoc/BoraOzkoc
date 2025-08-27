@@ -1,167 +1,37 @@
-## Hi there 👋 I'm Bora
+# Hi there 👋 I’m Bora
 
-### I am a Fullstack Developer and Game Developer with a Bachelor's degree in Software Engineering from Izmir University of Economics, currently residing in Izmir, Turkey. I specialize in creating engaging and optimized mobile applications and games, focusing on both user experience and performance.
+**Full-Stack Developer & Game Developer** with a B.Sc. in Software Engineering (Izmir University of Economics).  
+I build fast, clean, and engaging **web apps** and **mobile/PC games**, with a focus on user experience, performance, and maintainable architecture.
 
-## 🌐 Find me on:
-[![boraozkoc.com]( https://img.shields.io/badge/boraozkoc.com-blue.svg?)](https://boraozkoc.com)
+[![Website](https://img.shields.io/badge/boraozkoc.com-Visit-0A66C2?style=for-the-badge)](https://boraozkoc.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bora--ozkoc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-ozkoc)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-ozkoc)
+---
 
-### 🌱 Currently Learning
+## 🚀 What I’m building with
+JavaScript · **TypeScript** · **React** · **Next.js** · **Tailwind CSS** · **C#** · **.NET** · **Unity3D** · **Swift/SwiftUI**
 
-I'm currently learning full-stack development, focusing on building interactive web applications using JavaScript, Typescript, React, Next.js, and Tailwind CSS for the front-end, and integrating APIs to enhance functionality and user experience.
+[![Skills](https://skillicons.dev/icons?i=react,next,ts,js,tailwind,cs,dotnet,unity,swift,nodejs,git,github,vercel,cloudflare,vscode)](https://github.com/BoraOzkoc)
 
-# 💻 Tools & Technologies I Use:
+---
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,next,cs,swift,unity,github,stackoverflow,vscode,md)](https://github.com/BoraOzkoc)
+## 🌐 Selected Web Apps (React / Next.js)
 
-### Here are some of the web apps that I made with React:
+- [Portfolio Website](https://boraozkoc-com.vercel.app)  
+- [Card Game](https://github.com/BoraOzkoc/card-game)  
+- [Trivia Quiz](https://github.com/BoraOzkoc/React-Quiz)  
 
-<table>
-  <tr>
-  <td align="center" height="300" width ="450">
-    <div>
-    <img src="https://github.com/BoraOzkoc/boraozkoc-com/blob/main/SiteScreenshot.png"  height="250">
-    </div>
-        <br/>
-      <a href="https://boraozkoc-com.vercel.app">
-    Portfolio Website
-      </a>
-    </td>
-  <td align="center" height="300" width ="450">
-    <div>
-    <img src="https://github.com/BoraOzkoc/card-game/blob/main/Card-Game-SS.png"  height="250">
-    </div>
-        <br/>
-      <a href="https://github.com/BoraOzkoc/card-game">
-    Card Game
-      </a>
-    </td>
-    <td align="center" height="300" width ="450">
-    <div>
-    <img src="https://github.com/BoraOzkoc/React-Quiz/blob/main/TriviaQuizScreenshot.png"  height="250">
-    </div>
-        <br/>
-      <a href="https://github.com/BoraOzkoc/React-Quiz">
-    Trivia Quiz
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-### Here are some of the apps that I made with SwiftUI:
+## 🍏 SwiftUI Apps
 
-<table>
-  <tr>
-    <td align="center" height="250" width ="150">
-    <div><img src="https://github.com/BoraOzkoc/SwiftUiMapApp/blob/8c73ef84a354bf42299e1fb33c85c7a11d2af104/Ekran%20Kaydı%202024-08-23%2022.07.03.gif"  height="250"></div>
-        <br/>
-      <a href="https://github.com/BoraOzkoc/SwiftUiMapApp">
-    Map App
-      </a>
-    </td>
-    <td align="center" height="250" width ="150">
-        <div><img src="https://github.com/BoraOzkoc/Calculator/blob/main/Calculator%20App%20Video-2.gif"  height="250"></div>
-        <br/>
-      <a href="https://github.com/BoraOzkoc/Calculator">
-    Calculator App
-      </a>
-    </td>
-  </tr>
-</table>
+- [Map App](https://github.com/BoraOzkoc/SwiftUiMapApp)  
+- [Calculator App](https://github.com/BoraOzkoc/Calculator)  
 
-### Here are some of the games that I made with Unity3D:
+---
 
-<table>
-  <tr>
-    <td align="center" height="250" width ="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/ReactorIdle/blob/main/ReactorIdle.gif"  height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        ReactorIdle    
-      </a>
-    </td>
-   <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/IdleBrickContruction/blob/main/IdleBrickContruction.gif"  height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        IdleBrickContruction
-      </a>
-    </td>
-    <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/DefenceRunnerV0.2/blob/main/DefenceRunnerV0_2.gif"  height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        DefenceRunnerV0.2
-      </a>
-    </td>
-    <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/ArmThemUp/blob/main/ArmThem_Up.gif" width ="120" height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        ArmThemUp      
-      </a>
-    </td>
-    <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/WeightTextBattle/blob/main/WeightTextBattle.gif" width ="120" height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        WeightTextBattle
-      </a>
-    </td>
-    <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/SlingShotMerge/blob/main/SlingShotMerge.gif" width ="120" height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        SlingShotMerge
-      </a>
-    </td>
-    </td>
+## 🎮 Games & Studio
 
-  </tr>
-  <tr>
-  <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/DefenceRunnerV0.1/blob/main/DefenceRunnerV0_1.gif"  height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        DefenceRunnerV0.1
-      </a>
-    </td>
-   <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/PullThightly/blob/main/PullTightly.gif"  height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        PullThightly
-      </a>
-    </td>
-    <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/LeaveMeAlone/blob/main/LeaveMeAlone.gif"  height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        LeaveMeAlone!
-      </a>
-    </td>
-    <td align="center" height="250" width ="200">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/AR-DEMO-/blob/main/AR_DEMO.gif" width ="120" height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        AR-DEMO        
-      </a>
-    </td>
-    <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/CashierRun/blob/main/CashierRun.gif"  height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        CashierRun    
-      </a>
-    </td>
-    <td align="center" height="250">
-        <div class="grid-item"><img src="https://github.com/BoraOzkoc/PushThemForward/blob/main/PushThemForward_MOV_AdobeExpress.gif" width ="120" height="250"></div>
-        <br />
-              <a href="https://github.com/BoraOzkoc">
-        PushThemForward
-      </a>
-    </td>
-  </tr>
-</table>
+- [Luqa Games](https://github.com/BoraOzkoc)  
 
+---
