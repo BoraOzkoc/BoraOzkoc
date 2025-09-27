@@ -3,12 +3,12 @@
 **Full-Stack Developer & Game Developer** with a B.Sc. in Software Engineering (Izmir University of Economics).  
 I build fast, clean, and engaging **web apps** and **mobile/PC games**, with a focus on user experience, performance, and maintainable architecture.
 
-💻 Technologies I work with:
-	•	Frontend: React, Next.js, TypeScript, TailwindCSS
-	•	Deployment & Hosting: Vercel, Cloudflare Pages
-	•	Game Development: Unity3D, C#
-	•	Version Control & Tools: GitHub, Jira
-  
+💻 Technologies I work with:  
+• Frontend: React, Next.js, TypeScript, TailwindCSS  
+• Deployment & Hosting: Vercel, Cloudflare Pages  
+• Game Development: Unity3D, C#  
+• Version Control & Tools: GitHub, Jira  
+
 [![Website](https://img.shields.io/badge/boraozkoc.com-Visit-0A66C2?style=for-the-badge)](https://boraozkoc.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bora--ozkoc-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bora-ozkoc)
 
